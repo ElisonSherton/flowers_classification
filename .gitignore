@@ -2,6 +2,10 @@
 data/images/
 models/
 
+notebooks/models/
+notebooks/artifacts/
+notebooks/wandb/
+
 __pycache__/
 *.py[cod]
 *$py.class
